@@ -1,1 +1,4 @@
-# IBM-CF-Restart
+MAIL
+PWD
+CFNAME
+RGN eu-gb
