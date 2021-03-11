@@ -1,5 +1,5 @@
 
-本项目仅适用于重启IBM的APP。仅此而已
+本项目仅适用于重启IBM的应用程序。仅此而已
 
 详细教程视频（YouTube）：https://youtu.be/Sz5f4YuWNUc
 
